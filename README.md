@@ -19,4 +19,4 @@ You will also need the life saving ofxJson add-on (thank you Jeff Crouse):
 https://github.com/jeffcrouse/ofxJSON
 
 
-![screenshot](screesnhot.jpg)
+![screenshot](screesnhot.png)
