@@ -5,6 +5,6 @@ Download ndjson files from here:
 
 https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/simplified?pli=1
 
-You will also need the life saving ofxJson library:
+You will also need the life saving ofxJson library (thank you Jeff Crouse):
 
 https://github.com/jeffcrouse/ofxJSON
